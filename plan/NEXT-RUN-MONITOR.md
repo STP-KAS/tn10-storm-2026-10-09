@@ -6,7 +6,7 @@ Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this st
 
 # Next run monitor
 
-This page lists the monitor lines already written in [MONITOR.md](MONITOR.md) and in [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md). It does not add a demand. It does not lock the questions plan.
+This page lists the monitor lines already written in [MONITOR.md](MONITOR.md) and in [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md). It does not add a demand. It does not lock the questions plan.
 
 **Start.** Sending this GitHub to Grok Build or to the bot means go: start the operation. The bot's runner and the bot's one miner use the tunnel to keel. The runner runs only during the storm, apart from the rehearsal. The miner pays the Grok Bot payout address (kept on the box, not in git) and mines only while keel is synced. Build runs one miner, on locus. n0 will not run.
 

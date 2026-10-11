@@ -12,7 +12,7 @@ TN10 only. Every clock time in this repo is UTC. This page does not lock the que
 
 **Launch files.** Tonight is launched by pasting [GO-BOT.md](../go/bot/GO-BOT.md) into the bot and [GO-BUILD.md](../go/build/GO-BUILD.md) into Grok Build. Pasting is the GO for that side. Each is self-contained, with the exact UTC schedule and rates.
 
-The question list, the step table, and the fee pair stay in [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-throughput-questions/blob/main/plan/NEXT-STORM-PLAN.md). This page sets the node split, the mining split, and the combined goal. Under the repo's own rule, a node or miner question is decided here. What was measured is [monitoring-result/](../monitoring-result/README.md). This page stays the plan.
+The question list, the step table, and the fee pair stay in [NEXT-STORM-PLAN.md](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions/blob/main/plan/NEXT-STORM-PLAN.md). This page sets the node split, the mining split, and the combined goal. Under the repo's own rule, a node or miner question is decided here. What was measured is [monitoring-result/](../monitoring-result/README.md). This page stays the plan.
 
 ## 1. Goal
 

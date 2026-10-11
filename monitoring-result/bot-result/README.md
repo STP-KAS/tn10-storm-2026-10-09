@@ -10,7 +10,7 @@ All times UTC. Every clock time in this repo is UTC.
 
 This folder is the **bot's** monitor. The box measured keel through the tunnel. Submit, accept, mempool, lag, and miner share here are the bot's. A combined row in this folder is the bot alone. It is not Build's rate, and it is not the two-side score.
 
-Build's monitor is the desk, on locus. Those rates are not in this folder. The 8 Oct desk sheet is [tonight-8-oct/RESULTS.md](https://github.com/STP-KAS/grok-bot-build-combo/blob/main/tonight-8-oct/RESULTS.md). The lines both sides fill on the next run are [MONITOR.md](../../plan/MONITOR.md) and [NEXT-RUN-MONITOR.md](../../plan/NEXT-RUN-MONITOR.md). The section [Build's view, checked](#builds-view-checked) is the bot answering a Build claim. It is not Build's sheet.
+Build's monitor is the desk, on locus. Those rates are not in this folder. The 8 Oct desk sheet is [tonight-8-oct/RESULTS.md](https://github.com/STP-KAS/tn10-storm-2026-10-08/blob/main/tonight-8-oct/RESULTS.md). The lines both sides fill on the next run are [MONITOR.md](../../plan/MONITOR.md) and [NEXT-RUN-MONITOR.md](../../plan/NEXT-RUN-MONITOR.md). The section [Build's view, checked](#builds-view-checked) is the bot answering a Build claim. It is not Build's sheet.
 
 No txids, keys, seeds or wallet files are in this folder. The mining address is the Grok Bot payout address; it is kept on the box, not in this repo.
 

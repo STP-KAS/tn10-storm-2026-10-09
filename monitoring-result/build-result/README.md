@@ -10,7 +10,7 @@ This folder is Build's monitor. The desk measured locus. These numbers are not t
 
 ## 8 Oct
 
-The desk sheet is [tonight-8-oct/RESULTS.md](https://github.com/STP-KAS/grok-bot-build-combo/blob/main/tonight-8-oct/RESULTS.md). Accepted in that sheet is what locus took. It is not the bot's accept count.
+The desk sheet is [tonight-8-oct/RESULTS.md](https://github.com/STP-KAS/tn10-storm-2026-10-08/blob/main/tonight-8-oct/RESULTS.md). Accepted in that sheet is what locus took. It is not the bot's accept count.
 
 ## 9 Oct, 12:23:20Z, 15.02 seconds, on the synced desk node
 

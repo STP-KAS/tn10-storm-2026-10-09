@@ -8,7 +8,7 @@ Every clock time in this repo is UTC.
 
 This folder is the result. The plan stays at [plan/](../plan/PLAN.md). The plan says what to measure. This folder says what was measured. They are separate pages, and both stay.
 
-Source: Kaspa Pulse ([@gokugalax](https://x.com/gokugalax)), X DM, 4–7 Oct 2026. The questions being counted are his. If this page and [the questions plan](https://github.com/STP-KAS/tn10-storm-throughput-questions) disagree about a clock, a fee, or one of his questions, the questions plan wins.
+Source: Kaspa Pulse ([@gokugalax](https://x.com/gokugalax)), X DM, 4–7 Oct 2026. The questions being counted are his. If this page and [the questions plan](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions) disagree about a clock, a fee, or one of his questions, the questions plan wins.
 
 The checklist the next run still fills is [MONITOR.md](../plan/MONITOR.md) and [NEXT-RUN-MONITOR.md](../plan/NEXT-RUN-MONITOR.md).
 

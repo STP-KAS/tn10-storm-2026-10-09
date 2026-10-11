@@ -5,10 +5,14 @@
 > **Experimental. We are just trying this.**
 >
 > [Disclaimer](DISCLAIMER.md)
+>
+> **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `tn10-locus`; old links redirect here.
+>
+> ← previous storm: [tn10-storm-2026-10-08](https://github.com/STP-KAS/tn10-storm-2026-10-08) | next storm: [tn10-storm-2026-10-10](https://github.com/STP-KAS/tn10-storm-2026-10-10) →
 
 Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this stretch, from 4 Oct 2026 on. The 7 Oct 2026 wording stays: sign-and-send processes are senders; runner is the setup; bot is reserved for the operator.
 
-# tn10-locus: the front door for our TN10 stress tests
+# tn10-storm-2026-10-09: the front door for our TN10 stress tests
 
 Kaspa Testnet-10 (TN10) only. tKAS has no value. Nothing here touches mainnet. Every clock is UTC unless a column says Brussels. No txids, keys, seeds, hosts or IPs are kept in this repo.
 
@@ -36,7 +40,7 @@ Plus our own: the highest **unique accepted** tx/s both sides can hold at the sa
 | **keel** | Second kaspad on the desk. The bot sends and mines here only, through a tunnel stp provides. Gate: keel lag ≤ 60 s. |
 | **n0** | The old box node. Retired on 8–9 Oct; it does not run. |
 | **Bot / Build split** | Each side uses its own wallet and its own node, with exactly 1 miner on its own node ("mine where you send"). |
-| **Plan** | [plan/PLAN.md](plan/PLAN.md) is the method; [plan/REHEARSAL-2026-10-09.md](plan/REHEARSAL-2026-10-09.md) is the pre-T0 rehearsal. The questions and method come from [tn10-storm-throughput-questions](https://github.com/STP-KAS/tn10-storm-throughput-questions). |
+| **Plan** | [plan/PLAN.md](plan/PLAN.md) is the method; [plan/REHEARSAL-2026-10-09.md](plan/REHEARSAL-2026-10-09.md) is the pre-T0 rehearsal. The questions and method come from [tn10-storm-2026-10-04-questions](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions). |
 | **GO files** | One self-contained launch file per side. Pasting it is the GO and the lock-in. No further GO. |
 | **Monitoring** | Checklists in [plan/MONITOR.md](plan/MONITOR.md) and [plan/NEXT-RUN-MONITOR.md](plan/NEXT-RUN-MONITOR.md): submitted and accepted per second, mempool, lag, fee tiers, indexer, mining share, duplicate share, NTP. |
 | **Rules** | Outside the storm and the rehearsal the bot's runner stays off. If a page and a GO file disagree about tonight, the GO file wins. The questions plan stays the source for the questions and the method. |
@@ -108,22 +112,22 @@ All under [STP-KAS](https://github.com/STP-KAS). Private repos are linked for th
 
 | Repo | What | Period | Status | Link |
 |---|---|---|---|---|
-| tn10-locus (this repo) | Two-node hub: GO files, plan, 9 Oct monitoring, history | 8 Oct → | Active. **Private** | [link](https://github.com/STP-KAS/tn10-locus) |
-| tn10-storm-throughput-questions | Kaspa Pulse's questions, the measurement plan, his notes, raw files from earlier runs | 4 Oct → | Active as the method source; its clock (21:30 UTC) is superseded by tonight's GO files. Public | [link](https://github.com/STP-KAS/tn10-storm-throughput-questions) |
-| grok-bot-build-combo | Bot + Build combo hub, 8 Oct checkout (10 desk rounds), Pulse's 8–9 Oct reads | 7–9 Oct | Superseded by this repo for routing; kept as the 8 Oct record. Public (its text says private) | [link](https://github.com/STP-KAS/grok-bot-build-combo) |
-| tn10-storm-build-bot-challenge | Where Build and the bot test each other's storm numbers | 6 Oct → | Waiting: empty until the storm | [link](https://github.com/STP-KAS/tn10-storm-build-bot-challenge) |
-| tn10-build-desk-tps | Build's desk throughput runs via public nodes, incl. the 6-hour 2,207 hold | 6–7 Oct | Done. Public | [link](https://github.com/STP-KAS/tn10-build-desk-tps) |
-| tn10-build-desk-tps-3500 | Desk tries for over 3,500 included tx/s (not reached) and the light-hop idea | 7 Oct | Done. Public | [link](https://github.com/STP-KAS/tn10-build-desk-tps-3500) |
+| tn10-storm-2026-10-09 (this repo) | Two-node hub: GO files, plan, 9 Oct monitoring, history | 8 Oct → | Active. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-10-09) |
+| tn10-storm-2026-10-04-questions | Kaspa Pulse's questions, the measurement plan, his notes, raw files from earlier runs | 4 Oct → | Active as the method source; its clock (21:30 UTC) is superseded by tonight's GO files. Public | [link](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions) |
+| tn10-storm-2026-10-08 | Bot + Build combo hub, 8 Oct checkout (10 desk rounds), Pulse's 8–9 Oct reads | 7–9 Oct | Superseded by this repo for routing; kept as the 8 Oct record. Public (its text says private) | [link](https://github.com/STP-KAS/tn10-storm-2026-10-08) |
+| tn10-storm-2026-10-09-challenge | Where Build and the bot test each other's storm numbers | 6 Oct → | Waiting: empty until the storm | [link](https://github.com/STP-KAS/tn10-storm-2026-10-09-challenge) |
+| tn10-storm-2026-10-06 | Build's desk throughput runs via public nodes, incl. the 6-hour 2,207 hold | 6–7 Oct | Done. Public | [link](https://github.com/STP-KAS/tn10-storm-2026-10-06) |
+| tn10-storm-2026-10-07 | Desk tries for over 3,500 included tx/s (not reached) and the light-hop idea | 7 Oct | Done. Public | [link](https://github.com/STP-KAS/tn10-storm-2026-10-07) |
 | what-limits-tx-rate | The mass ceiling: why a signed payment stops near 3,080 tx/s | 7 Oct | Reference. Public | [link](https://github.com/STP-KAS/what-limits-tx-rate) |
-| tn10-storm-2026-10-public-report | Public report of the 1–3 Oct box storm, plus mainnet-implications note | 1–4 Oct | Done. Public | [link](https://github.com/STP-KAS/tn10-storm-2026-10-public-report) |
-| tn10-storm-2026-10-analysis | Raw data and Build analysis of the 1–2 Oct storm | 1–7 Oct | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-10-analysis) |
-| tn10-stress-tests | Private reports (copy of the 1–2 Oct box report) | 28 Sep–2 Oct | Done. **Private** | [link](https://github.com/STP-KAS/tn10-stress-tests) |
-| tn10-gusto-20261002, tn10-gusto-ledger, tn10-full-gusto | "Full gusto" desk spend ramps on public nodes | 1–2 Oct | Done. **Private** | [ramp](https://github.com/STP-KAS/tn10-gusto-20261002) · [ledger](https://github.com/STP-KAS/tn10-gusto-ledger) · [notes](https://github.com/STP-KAS/tn10-full-gusto) |
-| tn10-indexer-stall-2026-09 | The api-tn10 indexer stall during the 25 Sep storm (cause unproven) | 25–29 Sep | Done. **Private** | [link](https://github.com/STP-KAS/tn10-indexer-stall-2026-09) |
-| tn10-vprogs-stress-findings | 25–26 Sep storm with vprogs and tic-tac-toe; upstream findings | 25–26 Sep | Done. Public | [link](https://github.com/STP-KAS/tn10-vprogs-stress-findings) |
-| grok-bot-vprogs-round2 … round6, tn10-vprogs-final-verdict | The Sep storm rounds and the verdict | 25–26 Sep | Done. Public | [round 2](https://github.com/STP-KAS/grok-bot-vprogs-round2) · [verdict](https://github.com/STP-KAS/tn10-vprogs-final-verdict) |
-| grok-desk-tn10 | Desk CPU miner setup for TN10 | 27 Sep | Done. **Private** | [link](https://github.com/STP-KAS/grok-desk-tn10) |
-| tn10-grok, tn10-hard-test | Early TN10 journal (farm mining stress) and the 14 Sep repo catalog | 14–21 Sep | Done. tn10-grok **private**, tn10-hard-test public | [journal](https://github.com/STP-KAS/tn10-grok) · [catalog](https://github.com/STP-KAS/tn10-hard-test) |
+| tn10-storm-2026-10-01 | Public report of the 1–3 Oct box storm, plus mainnet-implications note | 1–4 Oct | Done. Public | [link](https://github.com/STP-KAS/tn10-storm-2026-10-01) |
+| tn10-storm-2026-10-01-analysis | Raw data and Build analysis of the 1–2 Oct storm | 1–7 Oct | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-10-01-analysis) |
+| tn10-storm-2026-10-01-reports | Private reports (copy of the 1–2 Oct box report) | 28 Sep–2 Oct | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-10-01-reports) |
+| tn10-storm-2026-10-02-ramp, tn10-storm-2026-10-02-ledger, tn10-storm-2026-10-02 | "Full gusto" desk spend ramps on public nodes | 1–2 Oct | Done. **Private** | [ramp](https://github.com/STP-KAS/tn10-storm-2026-10-02-ramp) · [ledger](https://github.com/STP-KAS/tn10-storm-2026-10-02-ledger) · [notes](https://github.com/STP-KAS/tn10-storm-2026-10-02) |
+| tn10-storm-2026-09-25-indexer-stall | The api-tn10 indexer stall during the 25 Sep storm (cause unproven) | 25–29 Sep | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-09-25-indexer-stall) |
+| tn10-storm-2026-09-25 | 25–26 Sep storm with vprogs and tic-tac-toe; upstream findings | 25–26 Sep | Done. Public | [link](https://github.com/STP-KAS/tn10-storm-2026-09-25) |
+| tn10-storm-2026-09-25-r2 … round6, tn10-storm-2026-09-26-verdict | The Sep storm rounds and the verdict | 25–26 Sep | Done. Public | [round 2](https://github.com/STP-KAS/tn10-storm-2026-09-25-r2) · [verdict](https://github.com/STP-KAS/tn10-storm-2026-09-26-verdict) |
+| tn10-storm-2026-09-27-desk-miners | Desk CPU miner setup for TN10 | 27 Sep | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-09-27-desk-miners) |
+| tn10-storm-2026-09-18-mining, tn10-hard-test | Early TN10 journal (farm mining stress) and the 14 Sep repo catalog | 14–21 Sep | Done. tn10-storm-2026-09-18-mining **private**, tn10-hard-test public | [journal](https://github.com/STP-KAS/tn10-storm-2026-09-18-mining) · [catalog](https://github.com/STP-KAS/tn10-hard-test) |
 
 ---
 
