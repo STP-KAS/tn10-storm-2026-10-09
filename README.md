@@ -120,14 +120,14 @@ All under [STP-KAS](https://github.com/STP-KAS). Private repos are linked for th
 | tn10-storm-2026-10-07 | Desk tries for over 3,500 included tx/s (not reached) and the light-hop idea | 7 Oct | Done. Public | [link](https://github.com/STP-KAS/tn10-storm-2026-10-07) |
 | what-limits-tx-rate | The mass ceiling: why a signed payment stops near 3,080 tx/s | 7 Oct | Reference. Public | [link](https://github.com/STP-KAS/what-limits-tx-rate) |
 | tn10-storm-2026-10-01 | Public report of the 1–3 Oct box storm, plus mainnet-implications note | 1–4 Oct | Done. Public | [link](https://github.com/STP-KAS/tn10-storm-2026-10-01) |
-| tn10-storm-2026-10-01-analysis | Raw data and Build analysis of the 1–2 Oct storm | 1–7 Oct | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-10-01-analysis) |
-| tn10-storm-2026-10-01-reports | Private reports (copy of the 1–2 Oct box report) | 28 Sep–2 Oct | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-10-01-reports) |
-| tn10-storm-2026-10-02-ramp, tn10-storm-2026-10-02-ledger, tn10-storm-2026-10-02 | "Full gusto" desk spend ramps on public nodes | 1–2 Oct | Done. **Private** | [ramp](https://github.com/STP-KAS/tn10-storm-2026-10-02-ramp) · [ledger](https://github.com/STP-KAS/tn10-storm-2026-10-02-ledger) · [notes](https://github.com/STP-KAS/tn10-storm-2026-10-02) |
+| tn10-storm-2026-10-01-analysis | Raw data and Build analysis of the 1–2 Oct storm | 1–7 Oct | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-10-01-analysis-public) |
+| tn10-storm-2026-10-01-reports | Private reports (copy of the 1–2 Oct box report) | 28 Sep–2 Oct | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-10-01-reports-public) |
+| tn10-storm-2026-10-02-ramp, tn10-storm-2026-10-02-ledger, tn10-storm-2026-10-02 | "Full gusto" desk spend ramps on public nodes | 1–2 Oct | Done. **Private** | [ramp](https://github.com/STP-KAS/tn10-storm-2026-10-02-ramp) · [ledger](https://github.com/STP-KAS/tn10-storm-2026-10-02-ledger) · [notes](https://github.com/STP-KAS/tn10-storm-2026-10-02-public) |
 | tn10-storm-2026-09-25-indexer-stall | The api-tn10 indexer stall during the 25 Sep storm (cause unproven) | 25–29 Sep | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-09-25-indexer-stall) |
 | tn10-storm-2026-09-25 | 25–26 Sep storm with vprogs and tic-tac-toe; upstream findings | 25–26 Sep | Done. Public | [link](https://github.com/STP-KAS/tn10-storm-2026-09-25) |
 | tn10-storm-2026-09-25-r2 … round6, tn10-storm-2026-09-26-verdict | The Sep storm rounds and the verdict | 25–26 Sep | Done. Public | [round 2](https://github.com/STP-KAS/tn10-storm-2026-09-25-r2) · [verdict](https://github.com/STP-KAS/tn10-storm-2026-09-26-verdict) |
-| tn10-storm-2026-09-27-desk-miners | Desk CPU miner setup for TN10 | 27 Sep | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-09-27-desk-miners) |
-| tn10-storm-2026-09-18-mining, tn10-hard-test | Early TN10 journal (farm mining stress) and the 14 Sep repo catalog | 14–21 Sep | Done. tn10-storm-2026-09-18-mining **private**, tn10-hard-test public | [journal](https://github.com/STP-KAS/tn10-storm-2026-09-18-mining) · [catalog](https://github.com/STP-KAS/tn10-hard-test) |
+| tn10-storm-2026-09-27-desk-miners | Desk CPU miner setup for TN10 | 27 Sep | Done. **Private** | [link](https://github.com/STP-KAS/tn10-storm-2026-09-27-desk-miners-public) |
+| tn10-storm-2026-09-18-mining, tn10-hard-test | Early TN10 journal (farm mining stress) and the 14 Sep repo catalog | 14–21 Sep | Done. tn10-storm-2026-09-18-mining **private**, tn10-hard-test public | [journal](https://github.com/STP-KAS/tn10-storm-2026-09-18-mining-public) · [catalog](https://github.com/STP-KAS/tn10-hard-test) |
 
 ---
 
