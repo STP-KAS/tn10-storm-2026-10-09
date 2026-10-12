@@ -159,4 +159,4 @@ Kaspa Pulse counts the chain from outside the setup. Comparison comes to us firs
 
 ---
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

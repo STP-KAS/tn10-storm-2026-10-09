@@ -51,4 +51,4 @@ The lane runners stay off outside the storm, and they stay off in B0, in the two
 
 ---
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

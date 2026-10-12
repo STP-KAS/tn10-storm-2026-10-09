@@ -68,4 +68,4 @@ One rehearsal block, printed for the desk and kept with tonight's logs:
 
 ---
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

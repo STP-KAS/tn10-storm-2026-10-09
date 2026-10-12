@@ -249,4 +249,4 @@ Added after Kaspa Pulse's notes of 9 Oct. This section adds logging and reportin
 
 ---
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

@@ -142,4 +142,4 @@ Kaspa Pulse. His count is the chain. Comparison comes to us first. This page doe
 
 ---
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

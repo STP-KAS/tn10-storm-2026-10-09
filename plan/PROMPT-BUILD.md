@@ -49,4 +49,4 @@ Do the Build columns of [MONITOR.md](MONITOR.md), and every Build line in [NEXT-
 
 ---
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

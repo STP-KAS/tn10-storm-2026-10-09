@@ -131,4 +131,4 @@ All under [STP-KAS](https://github.com/STP-KAS). Private repos are linked for th
 
 ---
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

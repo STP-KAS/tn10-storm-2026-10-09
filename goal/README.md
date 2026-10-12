@@ -57,4 +57,4 @@ Write the minute in UTC. A blank minute is not measured. Hosts, addresses, and t
 
 ---
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.
